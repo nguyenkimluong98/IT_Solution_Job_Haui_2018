@@ -1,0 +1,12 @@
+C:\Users\Luong Nguyen\Desktop\IT_Solution_Job_Haui_2018\IT_SOLUTION_TN2017\Module_3\bin\Debug\Module_3.exe.config
+C:\Users\Luong Nguyen\Desktop\IT_Solution_Job_Haui_2018\IT_SOLUTION_TN2017\Module_3\bin\Debug\Module_3.exe
+C:\Users\Luong Nguyen\Desktop\IT_Solution_Job_Haui_2018\IT_SOLUTION_TN2017\Module_3\bin\Debug\Module_3.pdb
+C:\Users\Luong Nguyen\Desktop\IT_Solution_Job_Haui_2018\IT_SOLUTION_TN2017\Module_3\obj\Debug\Module_3.csprojResolveAssemblyReference.cache
+C:\Users\Luong Nguyen\Desktop\IT_Solution_Job_Haui_2018\IT_SOLUTION_TN2017\Module_3\obj\Debug\Module_3.Properties.Resources.resources
+C:\Users\Luong Nguyen\Desktop\IT_Solution_Job_Haui_2018\IT_SOLUTION_TN2017\Module_3\obj\Debug\Module_3.SearchForFlight.resources
+C:\Users\Luong Nguyen\Desktop\IT_Solution_Job_Haui_2018\IT_SOLUTION_TN2017\Module_3\obj\Debug\Module_3.csproj.GenerateResource.Cache
+C:\Users\Luong Nguyen\Desktop\IT_Solution_Job_Haui_2018\IT_SOLUTION_TN2017\Module_3\obj\Debug\Module_3.csproj.CoreCompileInputs.cache
+C:\Users\Luong Nguyen\Desktop\IT_Solution_Job_Haui_2018\IT_SOLUTION_TN2017\Module_3\obj\Debug\Module_3.exe
+C:\Users\Luong Nguyen\Desktop\IT_Solution_Job_Haui_2018\IT_SOLUTION_TN2017\Module_3\obj\Debug\Module_3.pdb
+C:\Users\Luong Nguyen\Desktop\IT_Solution_Job_Haui_2018\IT_SOLUTION_TN2017\Module_3\obj\Debug\Module_3.BillingConfirmation.resources
+C:\Users\Luong Nguyen\Desktop\IT_Solution_Job_Haui_2018\IT_SOLUTION_TN2017\Module_3\obj\Debug\Module_3.BookingConfirmation.resources
